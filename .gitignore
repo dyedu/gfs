@@ -1,0 +1,15 @@
+*.out
+
+coverage.html
+
+coverage.json
+
+coverage.xml
+
+build
+*.bak
+out
+tmp
+logs
+www
+sdata_o
